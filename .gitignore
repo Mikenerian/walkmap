@@ -1,0 +1,8 @@
+# Mac
+.DS_Store
+
+# 環境変数（ここにAPI_KEY情報を記述）
+.env
+
+# Python仮想環境
+env/
